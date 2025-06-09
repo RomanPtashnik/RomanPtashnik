@@ -1,7 +1,9 @@
 # Hello World! I'm Roman Ptashnik.
 ## 👨‍💻 About Me
 Hi there! I'm a __Python Developer__ passionate about building efficient, scalable, and maintainable software.
+
 I specialize in __backend development__, automation, and data engineering, with a strong focus on clean code and robust architecture.
+
 Open-source enthusiast, lifelong learner, and problem solver.
 
 ## 🛠️ Tech Stack
