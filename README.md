@@ -9,7 +9,7 @@ Open-source enthusiast, lifelong learner, and problem solver.
 ## 🛠️ Tech Stack
 🌐 Backend & Web
 
-→ 🐍 Python (Django, Flask, FastAPI, AsyncIO)
+→ 🐍 Python (FastAPI, AsyncIO)
 
 → 🔌 APIs: REST, GraphQL, WebSockets
 
